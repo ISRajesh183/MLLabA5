@@ -1,5 +1,5 @@
 # MLLabA5
-Exp5 - Ensemble Prediction and Decision Tree Evaluation on Wisconsin Diagnostic Dataset
+Exp5- Perceptron vs Multilayer Perceptron (A/B Experiment) with Hyperparameter Tuning 
 
 ## Libraries Used
 - numpy
@@ -7,8 +7,13 @@ Exp5 - Ensemble Prediction and Decision Tree Evaluation on Wisconsin Diagnostic 
 - matplotlib
 - seaborn
 - scikit-learn
-- ucimlrepo
-- xgboost
+- pillow
+- zipfile
+- os
+- torch
+- tqdm
+- random
+- itertools
 
 ## Datasets
 - English Handwritten Characters Dataset (kaggle)
