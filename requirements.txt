@@ -1,0 +1,12 @@
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- pillow
+- zipfile
+- os
+- torch
+- tqdm
+- random
+- itertools
